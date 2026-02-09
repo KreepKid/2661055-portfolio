@@ -1,0 +1,1 @@
+Git is a distributed version control system where we can keep track and even update projects we are working or worked on. Github is a cloud-based, open-source platform which is basically an implementation of Git. We can access Git using the command line on the terminal and Github using the web. 
